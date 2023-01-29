@@ -17,6 +17,6 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
 
-### Codewars
+### 🥋 Codewars
 
 [https://www.codewars.com/users/emdnauoy/badges/large](https://www.codewars.com/users/emdnauoy)
