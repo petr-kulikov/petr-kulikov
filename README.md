@@ -3,11 +3,13 @@
 ### 👨‍💻 Обо мне
 
 Мой путь в программировании начался с интенсива в Школе 21 от Сбера. Я успешно прошел интенсив и поступил. Сейчас прохожу основное обучение в кампусе в Новосибирске. Параллельно с программой школы изучаю фронтенд.
+
 &nbsp;
 
 ### 📬 Связаться со мной
 
 [![Telegram Badge](https://img.shields.io/badge/-petrkulikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emdnauoy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:p.kulikov.dev@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/petr-kulikov-496361255/)
+
 &nbsp;
 
 ### 💡 Технологии
@@ -18,11 +20,13 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
+
 &nbsp;
 
 ### 🥋 Codewars
 
 [![Codewars badge](https://www.codewars.com/users/emdnauoy/badges/large)](https://www.codewars.com/users/emdnauoy)
+
 &nbsp;
 
 ### 🛠 Гитхаб статистика
