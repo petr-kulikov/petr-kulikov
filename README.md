@@ -6,4 +6,4 @@
 
 ### 📬 Связаться со мной
 
-[![Telegram Badge](https://img.shields.io/badge/-petrkulikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emdnauoy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:p.kulikov.dev@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-petrkulikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/emdnauoy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:p.kulikov.dev@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/petr-kulikov-496361255/)
