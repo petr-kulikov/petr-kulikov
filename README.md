@@ -19,5 +19,4 @@
 
 ### 🥋 Codewars
 
-https://www.codewars.com/users/emdnauoy/badges/large
 [![Codewars badge](https://www.codewars.com/users/emdnauoy/badges/large)](https://www.codewars.com/users/emdnauoy)
